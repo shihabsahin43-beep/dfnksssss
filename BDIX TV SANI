@@ -125,3 +125,5 @@ http://103.144.89.251:8082/SONY.SPORTS.4/tracks-v1a1/mono.m3u8?token=cb693a2538b
 http://103.144.89.251:8082/SONY.SPORTS.4/tracks-v1a1/mono.m3u8?token=cb693a2538bf9c23f1404a951eec4a9215c3a40a-a72ca535edea19647ba276ebe0a6bb97-1775336477-1775325677
 #EXTINF:-1 group-title="Sani Sports",MLS 1 
 https://cc324.streamingtv339.com/mls4/tracks-v1a1/mono.m3u8?ip=103.124.110.218&token=8e22973886682fb553075b72ed89d0a1ba264156-ed-1775393336-1775339336
+#EXTINF:-1 tvg-id="587583" group-title="┃UK┃ CHAMPIONSHIP" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/UKCHAMPIONSHIP.png",┃UK┃ CHAMP - LEICESTER CITY
+https://ranapk.online/RANAPK33x/TVDh/play.php?id=587583
