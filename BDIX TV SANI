@@ -116,7 +116,7 @@ http://103.144.89.251:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=851663143698c
 #EXTINF:-1 group-title="Sani Sports",Sony Sports Ten 1 HD
 http://103.144.89.251:8082/SONY.SPORTS.1HD/tracks-v1a1/mono.m3u8?token=5b08e9e30caba394362df188cc79ec36054562b4-4cb4fe5977e630daa7462a1c08362861-1775336239-1775325439
 #EXTINF:-1 group-title="Sani Sports",Sony Sports Ten 2 HD
-http://103.144.89.251:8082/SONY.SPORTS2.HD/tracks-v1a1/mono.m3u8?token=5ac5d1bbb0e441e115153713ecd433a87a6617d8-ed10e750e9ea80c4c0e8d3688711ee75-1775336418-1775325618
+http://stvlive.net:8080/sonyten2/index.m3u8
 #EXTINF:-1 group-title="Sani Sports",Sony Sports Ten 3
 http://103.144.89.251:8082/SONY.SPORTS.3/tracks-v1a1/mono.m3u8?token=2a7053f56949400631ef6986ef952a02abd5336e-748213fbf38a70c7f9d93b0e52b149a2-1775336444-1775325644
 #EXTINF:-1 group-title="Sani Sports",Sony Sports Ten 4
