@@ -77,5 +77,5 @@ http://103.89.248.22:8082/TNT-Sports-2/tracks-v1/index.fmp4.m3u8?token=565a4dd2b
 http://103.89.248.22:8082/BEIN-SPORTS-3/tracks-v1/index.fmp4.m3u8?token=5c3651b79d354350d3fdfc286da55aa27348d05e-94dfa2ef36047262fe9aa4c9e4c970ff-1776030188-1776019388
 #EXTINF:-1 tvg-logo="http://tv.bdiptv.net/assets/images/skyfootball.jpg" group-title="Sports Backup",SKY SPORTS FOOTBALL [BDIX]
 https://bdixgen.site/MAC/TREX/play.php?id=1458672
-EXTINF:-1 tvg-logo="http://tv.bdiptv.net/assets/images/skyfootball.jpg" group-title="Sports Backup",SKY SPORTS MAIN EVENT[BDIX]
-https://ranapkbd.site/RANAPK33y/TVD/play.php?id=1312033
+#EXTINF:-1 tvg-logo="http://tv.bdiptv.net/assets/images/skyfootball.jpg" group-title="Sports Backup",SKY SPORTS MAIN EVENT[BDIX]
+https://bdixgen.site/MAC/TREX/play.php?id=1458672
