@@ -1,41 +1,51 @@
 #EXTM3U
-#EXTINF:-1,BeIN Sports 1
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp" group-title="ARABIC SPORTS",BeIN Sports 1
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=798795
-#EXTINF:-1,BeIN Sports 2
+#EXTINF:-1 tvg-logo="https://media.info/l/f/6/6594.1491352241.png" group-title="ARABIC SPORTS",BeIN Sports 2
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=798796
-#EXTINF:-1,BeIN Sports 3
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-3-logo-png_seeklogo-481585.png" group-title="ARABIC SPORTS",BeIN Sports 3
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=798797
-#EXTINF:-1,BeIN Sports 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw0Nyb4bOB6MeFrzpTGVQKRBd1ofX03y7V1dIqk7mdEg&s=10" group-title="ARABIC SPORTS",BeIN Sports 4
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=798798
-#EXTINF:-1,BeIN Sports 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf2-__QGyLxUKT6WX9G4OxRtf8PvCL4OCzRBlTbvZnu4B7qflUFVpP0znd&s=10" group-title="ARABIC SPORTS",BeIN Sports 5
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=798799
-#EXTINF:-1,TNT Sports 1
-https://bdixgen.site/MAC/TREX/play.php?id=1458678
-#EXTINF:-1,TNT Sports 2
-https://bdixgen.site/MAC/TREX/play.php?id=1458666
-#EXTINF:-1,TNT Sports 3
-https://bdixgen.site/MAC/TREX/play.php?id=1458665
-#EXTINF:-1,TNT Sports 4
-https://bdixgen.site/MAC/TREX/play.php?id=1458815
-#EXTINF:-1,Sky Sports Main Event
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/7337/index.m3u8
-#EXTINF:-1,Sky Sports Cricket
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KXBPXUGUHGAC6F/9258/index.m3u8
-#EXTINF:-1,Sky Sports Football
-https://bdixgen.site/MAC/TREX/play.php?id=30498
-#EXTINF:-1,DirecTV Sports [ARG]
-https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
-#EXTINF:-1,Premier Sports 1
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7ko4g0YM7E49IIbhfMhYJOWGTCIAuASHcPXRsBPWMOiBIuM0tBHe2Z9OVkzO1vVSxGSDZ1f1Sg=s900-c-k-c0x00ffffff-no-rj" group-title="CRICKET/ASIAN SPORTS",A SPORTS
+https://ranapkbd.site/tvd/2/play.php?id=911321
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/2KpL4E7BBvDnywz0BLJXu0cMG_bqiXv6cMQ_dL4MNRTrQYIB6ydv8Tp1PnEvmx6Sg6d4yp7P=s900-c-k-c0x00ffffff-no-rj" group-title="CRICKET/ASIAN SPORTS",SONY TEN SPORTS 1
+https://bdixgen.site/MAC/TREX/play.php?id=156017
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/2KpL4E7BBvDnywz0BLJXu0cMG_bqiXv6cMQ_dL4MNRTrQYIB6ydv8Tp1PnEvmx6Sg6d4yp7P=s900-c-k-c0x00ffffff-no-rj" group-title="CRICKET/ASIAN SPORTS",SONY TEN SPORTS 2
+https://bdixgen.site/MAC/TREX/play.php?id=156010
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/2KpL4E7BBvDnywz0BLJXu0cMG_bqiXv6cMQ_dL4MNRTrQYIB6ydv8Tp1PnEvmx6Sg6d4yp7P=s900-c-k-c0x00ffffff-no-rj" group-title="CRICKET/ASIAN SPORTS",SONY TEN SPORTS 3
+https://bdixgen.site/MAC/TREX/play.php?id=1114578
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dAaL-v6CNP7Sllss255a-ZhtqzGh2Qw__3JSiBQqCw&s=10" group-title="CRICKET/ASIAN SPORTS",STAR SPORTS 1
+https://bdixgen.site/MAC/TREX/play.php?id=155968
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dAaL-v6CNP7Sllss255a-ZhtqzGh2Qw__3JSiBQqCw&s=10" group-title="CRICKET/ASIAN SPORTS",STAR SPORTS 1 SELECT
+https://bdixgen.site/MAC/TREX/play.php?id=155972
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dAaL-v6CNP7Sllss255a-ZhtqzGh2Qw__3JSiBQqCw&s=10" group-title="CRICKET/ASIAN SPORTS",STAR SPORTS 2
+https://bdixgen.site/MAC/TREX/play.php?id=1114581
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dAaL-v6CNP7Sllss255a-ZhtqzGh2Qw__3JSiBQqCw&s=10" group-title="CRICKET/ASIAN SPORTS",STAR SPORTS 2 SELECT
+https://bdixgen.site/MAC/TREX/play.php?id=155973
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OdiEAPpYxMSbq8i3Abt3Pg8bMI7jbkhw_GJhPQXiXCteB--Qn_fvJieqjAnAWQoYjlA" group-title="HONG KONG SPORTS",NOW SPORTS EPL 1
+https://ranapkbd.site/tvd/2/play.php?id=382835
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OdiEAPpYxMSbq8i3Abt3Pg8bMI7jbkhw_GJhPQXiXCteB--Qn_fvJieqjAnAWQoYjlA" group-title="HONG KONG SPORTS",NOW SPORTS EPL 2
+https://ranapkbd.site/tvd/2/play.php?id=382834
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="IRELAND SPORTS",Premier Sports 1
 https://bdixgen.site/MAC/TREX/play.php?id=1458647
-#EXTINF:-1,Premier Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="IRELAND SPORTS",Premier Sports 2
 https://bdixgen.site/MAC/TREX/play.php?id=1458812
-#EXTINF:-1,Fancode
-https://go.iptvpulse.top/nn6t.m3u
-#EXTINF:-1,ITV4
+#EXTINF:-1 tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2022-12/itv4-2022_0.png?itok=YbeJTrk1" group-title="UK SPORTS",ITV4
 https://ranapkbd.site/RANAPK33y/TVD/play.php?id=1168984
-#EXTINF:-1,NOW SPORTS EPL 2
-https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
-#EXTINF:-1,NOW SPORTS EPL 1
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
-#EXTINF:-1,SPORTV [BR]
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt" group-title="UK SPORTS",Sky Sports Cricket
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/KXBPXUGUHGAC6F/9258/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt" group-title="UK SPORTS",Sky Sports Football
+https://bdixgen.site/MAC/TREX/play.php?id=30498
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt" group-title="UK SPORTS",Sky Sports Main Event
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/96FNZHEUB9GK66/7337/index.m3u8
+#EXTINF:-1 tvg-logo="https://frontend-assets.clipsource.com/612dda2e469cb/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="UK SPORTS",TNT Sports 1
+https://bdixgen.site/MAC/TREX/play.php?id=1458678
+#EXTINF:-1 tvg-logo="https://frontend-assets.clipsource.com/612dda2e469cb/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="UK SPORTS",TNT Sports 2
+https://bdixgen.site/MAC/TREX/play.php?id=1458666
+#EXTINF:-1 tvg-logo="https://frontend-assets.clipsource.com/612dda2e469cb/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="UK SPORTS",TNT Sports 3
+https://bdixgen.site/MAC/TREX/play.php?id=1458665
+#EXTINF:-1 tvg-logo="https://frontend-assets.clipsource.com/612dda2e469cb/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="UK SPORTS",TNT Sports 4
+https://bdixgen.site/MAC/TREX/play.php?id=1458815
