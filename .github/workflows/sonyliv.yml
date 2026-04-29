@@ -1,4 +1,4 @@
-name: Merge IPTV Lists
+name: Merge IPTV Lists 2
 on:
   schedule:
     - cron: '*/5 * * * *' # Syncs every 5 minutes
@@ -21,7 +21,7 @@ jobs:
           sed -i '/### FRIENDS CHANNELS AGAIN ###/,$d' "BDIX TV SANI"
           
           # 3. Add a marker and Append friend's content (minus his #EXTM3U header)
-          echo -e "\n### FRIENDS CHANNELS START ###" >> "BDIX TV SANI"
+          echo -e "\n### FRIENDS CHANNELS AGAIN ###" >> "BDIX TV SANI"
           grep -v "#EXTM3U" friends_list.m3u >> "BDIX TV SANI"
 
       - name: Commit and Push
