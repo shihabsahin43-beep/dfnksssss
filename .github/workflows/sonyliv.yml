@@ -11,17 +11,17 @@ jobs:
       - name: Checkout your repo
         uses: actions/checkout@v3
 
-      - name: Merge Lists 2
+      - name: Merge Lists
         run: |
           # 1. Download friend's list to a temporary file
           curl -s "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u" -o friends_list.m3u
           
           # 2. Keep only YOUR original channels (The script assumes they are already in the file)
           # We search for the first occurrence of your friend's data marker to avoid duplicates
-          sed -i '/### FRIENDS CHANNELS AGAIN ###/,$d' "BDIX TV SANI"
+          sed -i '/### FRIENDS CHANNELS START ###/,$d' "BDIX TV SANI"
           
           # 3. Add a marker and Append friend's content (minus his #EXTM3U header)
-          echo -e "\n### FRIENDS CHANNELS AGAIN ###" >> "BDIX TV SANI"
+          echo -e "\n### FRIENDS CHANNELS START ###" >> "BDIX TV SANI"
           grep -v "#EXTM3U" friends_list.m3u >> "BDIX TV SANI"
 
       - name: Commit and Push
