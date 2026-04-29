@@ -1,7 +1,7 @@
 name: Merge IPTV Lists
 on:
   schedule:
-    - cron: '*/10 * * * *' # Syncs every 5 minutes
+    - cron: '*/5 * * * *' # Syncs every 5 minutes
   workflow_dispatch:      # Allows manual start
 
 jobs:
