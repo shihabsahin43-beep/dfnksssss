@@ -1,3 +1,9 @@
-#EXTINF:-1, FanCode Live
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|e392d9490c4243928d086a5240635789:689ecc234bb1678fd0643596c7597af1
-https://bd-mc-flive.fancode.com/mumbai/131163_english_dash_51516_1drmta-di_h264/index.mpd
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://frontend-assets.clipsource.com/612dda2e469cb/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="UK SPORTS",TNT Sports 1
+https://bdixgen.site/MAC/TREX/play.php?id=1458678
+#EXTINF:-1 tvg-logo="https://frontend-assets.clipsource.com/612dda2e469cb/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="UK SPORTS",TNT Sports 2
+https://bdixgen.site/MAC/TREX/play.php?id=1458666
+#EXTINF:-1 tvg-logo="https://frontend-assets.clipsource.com/612dda2e469cb/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="UK SPORTS",TNT Sports 3
+https://bdixgen.site/MAC/TREX/play.php?id=1458665
+#EXTINF:-1 tvg-logo="https://frontend-assets.clipsource.com/612dda2e469cb/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="UK SPORTS",TNT Sports 4
+https://bdixgen.site/MAC/TREX/play.php?id=1458815
