@@ -1,3 +1,5 @@
 #EXTTS
-#EXTINF:-1 tvg-logo="https://frontend-assets.clipsource.com/612dda2e469cb/dis-6130a93f81342/2023/07/06/64a6a70653c7b_thumbnail.jpg" group-title="UK SPORTS",TNT Sports 1
+#EXTINF:-1 tvg-logo="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/02/17/1739780757-b3872a7e41168d3e0ec67f2c1426a476.jpg" group-title="UK SPORTS",T Sports 
 http://premimum.online/live/jen12345/jen54321/52500.ts
+#EXTINF:-1 tvg-logo="https://img-284.media.info/i/bg/6/6550-1489224113.webp" group-title="SPORTS",Fox Sports 501
+http://premimum.online/live/jen12345/jen54321/1856.ts
