@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTTS
 #EXTINF:-1 tvg-logo="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/02/17/1739780757-b3872a7e41168d3e0ec67f2c1426a476.jpg" group-title="SPORTS",T Sports 
 http://premimum.online/live/jen12345/jen54321/52500.ts
 #EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/4/1/a/41a5d954ab789700d78d6c575d6181ef_fgraphic.jpg" group-title="SPORTS", Cricbuzz Live
@@ -20,7 +20,7 @@ http://premimum.online/live/jen12345/jen54321/659457.ts
 #EXTINF:-1 tvg-logo="https://tflix.su/wp-content/uploads/2026/04/Sky-Sport-5-NZ-600x300.png" group-title="SPORTS", Sky Sport NZ 5
 http://premimum.online/live/jen12345/jen54321/343019.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS", Fox Sports Cricket 501
-http://xtreme-tv.is:18800/live/ksB5UsCT/kfYtsq8/66387.ts
+http://luckonline.eu/live/y49sz6KMQs/6115263489/6651.ts
 #EXTM3U
 #EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="AKASH GO",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
