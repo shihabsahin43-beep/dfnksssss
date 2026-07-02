@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://assets.ottplus.bd/uploads/images/2025/11/02/images_af6fa94170db0440e5fb2e94d8e78ad2_goplay_thumbnail1.jpg" group-title="SPORTS",Sony Ten Sports 1
-http://180.94.28.28:8097//Sony-Ten-1/index.fmp4.m3u81/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_delta.m3u8?type=live
+http://180.94.28.28:8097//Sony-Ten-1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://assets.ottplus.bd/uploads/images/2025/11/09/images_35c210582ce0f2725636ea0b92623692_goplay_thumbnail_0008_sony_sports_ten_5_hd.jpg?w=1600" group-title="SPORTS", Sony Ten Sports 5
 http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://img.rnx.ru/logotvchannel/667-250.jpg" group-title="SPORTS", Arena 3 Premium
